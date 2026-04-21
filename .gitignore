@@ -1,3 +1,26 @@
+# Visual Studio
 .vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build
 bin/
 obj/
+Debug/
+Release/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
